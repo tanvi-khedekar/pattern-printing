@@ -1,4 +1,10 @@
-#pattern 1
+# Question 1: Solid Square
+# Expected output:
+
+# * * * *
+# * * * *
+# * * * *
+# * * * *
 
 rows = 4
 
